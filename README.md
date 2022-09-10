@@ -1,5 +1,5 @@
 ### Меня зовут Владимир и я Python-разработчик.
-
+- Языки и навыки: Python, Django, Django Rest Framework, Docker, Docker-compose, PostgreSQL, Nginx, Linux, Яндекс.Облако, Djoser, HTML, CSS, Bootstrap, Unittest.
 <!--
 **VladimirMonolith/VladimirMonolith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
