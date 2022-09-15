@@ -5,4 +5,4 @@
 #### Контакты:
 [hh.ru](https://hh.ru/resume/561e7507ff0b3f41f20039ed1f464c59746962?customDomain=1)
 [Telegram](https://t.me/es_zirael)
-[email] (vladimir.monolith@yandex.ru)
+[email](vladimir.monolith@yandex.ru)
